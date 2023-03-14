@@ -1,0 +1,26 @@
+{
+  "name": "love2d-pack",
+  "displayName": ":LÖVE2D pack",
+  "publisher": "AlejoCP00",
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/alejocp00/love2d-pack/"
+  },
+  "bugs": {
+    "url": "https://github.com/alejocp00/love2d-pack/issues"
+  },
+  "license": "mit",
+  "description": "A collection of all LOVE2D extensions that I'm using",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "pixelbyte-studios.pixelbyte-love2d",
+    "yinfei.luahelper",
+    "sumneko.lua"
+  ]
+}
